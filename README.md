@@ -27,6 +27,10 @@ Here are some of my top contributed repositories:
 
 [TheMovieDB](https://github.com/kvskmurty2802/TheMovieDB) - [![TMDb](https://img.shields.io/badge/TMDb-Movie%20database%20for%20all-blue)](https://themoviedb-sigma.vercel.app/)
 
+[Portfolio Page](https://github.com/kvskmurty2802/Portfolio_Page) - [![Portfolio Page](https://img.shields.io/badge/Portfolio%20Page-Portfolio%20page-red)](https://portfolio-page-nu-two.vercel.app/)
+
+[Weather Page](https://github.com/kvskmurty2802/Weather_Page) - [![Weather Page](https://img.shields.io/badge/Weather%20Page-Weather%20application-green)](https://weather-page-eight.vercel.app/)
+
 
 Feel free to explore these projects and contributions!
 
